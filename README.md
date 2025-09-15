@@ -31,5 +31,5 @@ jobs:
     steps:
       - uses: actions/checkout@v5
       - id: cargo-check-external-types
-        uses: rusticata/ci-action-check-external-types@master
+        uses: rusticata/ci-action-check-external-types@v1
 ```
