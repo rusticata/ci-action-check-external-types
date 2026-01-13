@@ -6,7 +6,7 @@ inputs:
     description: |
         Nightly version to use
         See https://github.com/awslabs/cargo-check-external-types/blob/main/rust-toolchain.toml
-    default: nightly-2025-08-06
+    default: nightly-2025-10-25
 runs:
   using: "composite"
   steps:
